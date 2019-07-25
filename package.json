@@ -1,0 +1,27 @@
+{
+  "name": "six-star",
+  "version": "1.0.0",
+  "description": "bug分支",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brayshen/1907Six-Star.git"
+  },
+  "keywords": [
+    "bug分创建"
+  ],
+  "author": "小生儿",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brayshen/1907Six-Star/issues"
+  },
+  "homepage": "https://github.com/Brayshen/1907Six-Star#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
