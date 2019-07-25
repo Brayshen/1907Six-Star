@@ -509,6 +509,7 @@
     line-height: 18px;
     left: 19px;
     font-size: 12px;
-    top: 2px;
+	top: 2px;
+	z-index: 1;
 }
 

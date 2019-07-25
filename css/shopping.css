@@ -162,7 +162,8 @@ body {
       .y_banner .y_banner_contain .swp1 .my-bullet-active {
         background: #1428a0;
         border: 2px solid #fff;
-        opacity: 1; }
+        opacity: 1;
+        outline: none; }
 
 .y_subbanner {
   margin: 0 auto;
@@ -257,7 +258,8 @@ body {
     .y_activity_wrap .y_activity .my-bullet-active {
       background: #1428a0;
       border: 2px solid #fff;
-      opacity: 1; }
+      opacity: 1;
+      outline: none; }
 
 /* 本周热销模块 */
 .y_hot_wrap {

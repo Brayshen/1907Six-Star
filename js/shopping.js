@@ -127,7 +127,7 @@ var mySwiper3 = new Swiper ('.swp3', {
         //热销模块
         var result1 = '';
         $.each(data.hot_product,function(index,item){
-          result1 += '<div class="y_hp_list" code = "'+item.code+'"><img src="'+item.imgurl+'"><h3>'+item.title+'</h3><p>'+item.descrip+'</p><p class="sspan">'+item.price+'<del>'+item.del+'<del></p></div>';
+          result1 += '<div class="y_hp_list" code = "'+item.code+'"><a href ="details.html"><img src="'+item.imgurl+'"></a><h3>'+item.title+'</h3><p>'+item.descrip+'</p><p class="sspan">'+item.price+'<del>'+item.del+'<del></p></div>';
         })
         $('.y_hot_product').html(result1);
 

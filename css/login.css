@@ -34,13 +34,13 @@
         .s_wrap .s_header .s_header_center .s_message .s_a2 i {
           font-size: 20px; }
   .s_wrap .s_container .s_container_cen {
-    width: 1519px;
+    width: 100%;
     min-height: 640px;
     margin: 0 auto;
     overflow: hidden;
     position: relative; }
     .s_wrap .s_container .s_container_cen .s_container_cen_img {
-      margin-top: 66px; }
+      margin-top: 57px; }
     .s_wrap .s_container .s_container_cen .s_title_left_logo .s_title_left_logo_img {
       width: 100px;
       height: 100px;
